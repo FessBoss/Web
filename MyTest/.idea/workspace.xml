@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bc79692-5875-4300-960f-813a510422f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/captcha/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/captcha/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/captcha/vendor/gregwar/captcha" />
+      <path value="$PROJECT_DIR$/captcha/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ZjIhUNipEtjOtfUrP5F7AjfFPY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Евгений\Desktop\OSPanel\domains\MyTest" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bc79692-5875-4300-960f-813a510422f1" name="Default Changelist" comment="" />
+      <created>1585346196648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585346196648</updated>
+      <workItem from="1585346199365" duration="12606000" />
+      <workItem from="1585369544274" duration="388000" />
+      <workItem from="1585440955203" duration="25000" />
+      <workItem from="1585440988687" duration="21993000" />
+      <workItem from="1585721419436" duration="203000" />
+      <workItem from="1586081039001" duration="16698000" />
+      <workItem from="1586141742681" duration="8183000" />
+      <workItem from="1586221847434" duration="701000" />
+      <workItem from="1586223576760" duration="236000" />
+      <workItem from="1586241170621" duration="1108000" />
+      <workItem from="1586255619691" duration="1162000" />
+      <workItem from="1586257837952" duration="1210000" />
+      <workItem from="1586330357569" duration="512000" />
+      <workItem from="1586330882295" duration="1474000" />
+      <workItem from="1586347833423" duration="128000" />
+      <workItem from="1586440276517" duration="856000" />
+      <workItem from="1586766735571" duration="10492000" />
+      <workItem from="1586779482428" duration="21000" />
+      <workItem from="1587067971360" duration="240000" />
+      <workItem from="1587068755229" duration="613000" />
+      <workItem from="1587504625592" duration="91000" />
+      <workItem from="1587506763127" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="109" key="#PHP" timestamp="1585441677807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="109" key="#PHP/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585441677807" />
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1585440985624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="273" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585440985624" />
+    <state x="792" y="428" key="NewPhpFileDialog" timestamp="1586258111312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="792" y="428" key="NewPhpFileDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586258111312" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585356174149" />
+    <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587506764581">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587506764581" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585369554278" />
+    <state x="-1906" y="-19" width="1670" height="1015" maximized="true" key="dock-window-1" timestamp="1586258591551">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1906" y="-19" width="1670" height="1015" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586258591551" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1585355173893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585355173893" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585461034096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585461034096" />
+  </component>
+</project>
