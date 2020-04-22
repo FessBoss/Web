@@ -3,8 +3,9 @@
     require_once 'connect.php';
 
     $captcha = $_POST['captcha'];
+    $createCaptcha = strtolower($_SESSION['captcha1']);
 
-    if ($_SESSION['captcha1'] != $captcha) {
+    if ($createCaptcha != $captcha) {
         $_SESSION['message'] = 'Неверный код с картинки!';
         unset($_SESSION['captcha1']);
         header('Location: ../index.php');
