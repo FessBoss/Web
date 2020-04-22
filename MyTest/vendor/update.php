@@ -15,15 +15,19 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <script src="../libs/ckeditor/ckeditor.js"></script>
+    <script src="../libs/jquery-1.11.2.min.js"></script>
+
     <title>Fess-Style</title>
-    <link href="../assets/css/summernote.css">
-    <link href="fontawesome.min.css">
-    <script src="../assets/js/summernote.min.js"></script>
 </head>
     <p><h1>Редактирование записей</h1></p>
     <form action="updated.php" method="post">
         <p></p><label>Введите новый текст:</label></p>
-        <input type="text" name="text" size="40" required>
+        <textarea name="text" id="editor1" cols="45" rows="5"></textarea>
+        <script type="text/javascript">
+            CKEDITOR.replace( 'editor1');
+        </script>
         <p><label>Выберите заголовок</label>
         <select name = "list" size="1">
             <option value="0">Выберите из списка</option>
