@@ -65,7 +65,7 @@ if($search)
             <INPUT type="submit" name="submit" value="Поиск">
         </FORM></P>
         <p><A HREF=main.php>Показать все</A></p>
-        <p><A HREF="vendor/insert.php">Добавить запись</A></p>
+        <p><A HREF="vendor/choice.php">Добавить запись</A></p>
         <a href="vendor/logout.php">Выход из учетной записи</a>
     </center>
 </body>
