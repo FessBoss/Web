@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9261ae4-024e-4091-8337-d7db5b76fb37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/captcha/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/captcha/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/captcha/vendor/composer" />
+      <path value="$PROJECT_DIR$/captcha/vendor/gregwar/captcha" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1bOd44o8PwnbOJvQTW5gsw5Oxq9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab8" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Евгений\Desktop\OSPanel\domains\CourseWork\vendor" />
+      <recent name="C:\Users\Евгений\Desktop\OSPanel\domains\CourseWork" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9261ae4-024e-4091-8337-d7db5b76fb37" name="Default Changelist" comment="" />
+      <created>1588506881617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588506881617</updated>
+      <workItem from="1588506886937" duration="2122000" />
+      <workItem from="1588510054864" duration="322000" />
+      <workItem from="1588514620121" duration="6000" />
+      <workItem from="1588514666903" duration="7009000" />
+      <workItem from="1588552090074" duration="32000" />
+      <workItem from="1588552136956" duration="5000" />
+      <workItem from="1588552161089" duration="31512000" />
+      <workItem from="1588674355656" duration="3905000" />
+      <workItem from="1588678317882" duration="28000" />
+      <workItem from="1588730750884" duration="10282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="109" key="#PHP" timestamp="1588508923330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="109" key="#PHP/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588508923330" />
+    <state x="715" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588585964826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="321" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588585964826" />
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1588737424111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="273" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588737424111" />
+    <state x="795" y="442" key="NewPhpFileDialog" timestamp="1588736446605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="442" key="NewPhpFileDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588736446605" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588730763863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588730763863" />
+    <state x="-1773" y="0" width="1391" height="710" maximized="true" key="dock-window-1" timestamp="1588691030980">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1773" y="0" width="1391" height="710" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588691030980" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588681536651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588681536651" />
+  </component>
+</project>

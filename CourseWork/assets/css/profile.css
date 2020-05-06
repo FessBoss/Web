@@ -1,0 +1,21 @@
+.logout {
+    font-size: 120%;
+    color: #b7625c;
+    font-family: courier;
+    font-size: 120%;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+p  {
+    margin: 10px 0;
+    border: unset;
+    outline: none;
+}
+
+a {
+    font-size: 120%;
+    color: #7c9ab7;
+    font-weight: bold;
+    text-decoration: none;
+}
